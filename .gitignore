@@ -3,6 +3,7 @@
 venv/
 env/
 myenv/
+venv310/
 # Python
 __pycache__/
 *.py[cod]
